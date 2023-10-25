@@ -1,0 +1,1318 @@
+Terms of Use
+Verra Registry
+
+September 2021
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+
+Table of Contents
+1.
+
+General Terms of Use ...........................................................................................................3
+
+2.
+
+Term ........................................................................................................................................4
+
+3.
+
+Services ..................................................................................................................................5
+
+4.
+
+Opening an Account...........................................................................................................5
+
+5.
+
+Listing a Project or Activity ..................................................................................................6
+
+6.
+
+Issuance of Registry Instruments .........................................................................................7
+
+7.
+
+Recording the Transfer of Instruments within the Verra Registry ....................................8
+
+8.
+
+Cancellation and Retirement of Instruments....................................................................8
+
+9.
+
+Legal Title to Instruments......................................................................................................9
+
+10.
+
+Fees and Charges ................................................................................................................9
+
+11.
+
+Representations, Warranties and Covenants .................................................................10
+
+12.
+
+Limitation of Liability and Indemnification ......................................................................14
+
+13.
+
+Limited Warranty; Disclaimer of Warranty .......................................................................17
+
+14.
+
+Termination and Suspension .............................................................................................18
+
+15.
+
+Closing an Account ...........................................................................................................21
+
+16.
+
+Confidentiality.....................................................................................................................21
+
+17.
+
+Intellectual Property ...........................................................................................................23
+
+18.
+
+Privacy and User Information ............................................................................................24
+
+19.
+
+Dispute Resolution ..............................................................................................................24
+
+20.
+
+Force Majeure.....................................................................................................................26
+
+21.
+
+General ................................................................................................................................26
+
+Schedule 1: Definitions ……………………………………………………………………………...…. 29
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+
+Title
+
+Terms of Use
+
+Parties
+
+Verra a not-for-profit organization incorporated in the District of Columbia,
+USA, whose registered office is at 1090 Vermont Ave, NW, Suite 910,
+20005 (Verra)
+You (User)
+
+Recitals
+These Terms of Use set out the terms on which Verra offers to make the Verra Registry
+(Registry) available to the user.
+The Registry serves as the registry for the Verra Programs.
+The User wishes to use the Registry on the terms and conditions of this Agreement, as
+amended from time to time.
+
+Operative Provisions
+General Terms of Use
+The User acknowledges and agrees that when using the Verra Registry, the User will
+be subject to, and must comply with, these Terms of Use as modified from time to
+time in accordance with the terms hereof.
+Where there is any inconsistency between these Terms of Use and the Program Rules
+and Requirements of a Verra Program, the Program Rules and Requirements of the
+relevant Verra Program will prevail over these Terms of Use.
+In addition, the User agrees to comply with any and all applicable Scheme
+Regulations imposed and updated from time to time by a third-party Scheme
+Regulator.
+If the User does not agree to these Terms of Use, the User may not access or
+otherwise use the Verra Registry.
+
+Specified business activities
+The User may not conduct any of the following business activities in relation to its use
+of the Verra Registry without providing advance written notice to Verra:
+(a) purchasing, holding, transferring, retiring or cancelling Instruments on behalf of third
+parties; or
+(b) acting as Agent on behalf of a Principal who owns or intends to own Instruments.
+Where the User conducts the business activities referred to in Clause 1.5, the User
+represents and warrants that:
+3
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(a) in carrying out such business activities it holds all necessary securities and/or financial
+services licenses and approvals required to undertake these activities in each of the
+jurisdictions that it is performing such business activities in; and
+(b) where applicable, that Know-Your-Client checks have been conducted on each of the
+customers it is undertaking the business activities on behalf of; and
+(c) if acting as Agent, it has full, valid and current authority to represent and act on behalf
+of the Principal (who shall be fully liable for the acts and omission of the Agent) and
+that such authority has not been revoked.
+If the User conducts any of the business activities referred to in Clause 1.5, it shall
+provide such evidence as is required by Verra to confirm its authority to undertake
+each such activity. The User shall immediately notify Verra if any authority or
+permission required to undertake the relevant business activity is amended or
+revoked.
+Verra reserves the right to grant, limit, suspend, or remove the User's access to
+certain functionality in the Verra Registry that supports the business activities
+identified in Clause 1.5 at any time.
+
+Related instruments
+The User may not conduct any of the following business activities without the express
+written consent of Verra, which is to be granted in Verra’s sole and absolute
+discretion:
+(a) creating Related Instruments;
+(b) marketing Related Instruments;
+(c) transacting in Related Instruments in any form whatsoever.
+If the User conducts any of the business activities referred to in Clause 1.9, it shall
+provide such evidence as is required by Verra to confirm its ability (including its
+technical competence and financial standing) and authority (including its legal
+capacity and regulatory permissions and authorities) to undertake each such activity.
+The User shall immediately notify Verra if there is any material change in such ability
+or authority, including whether any authority or permission required to undertake the
+relevant business activity is amended or revoked.
+Verra reserves the right to grant, limit, suspend or remove the User's access to
+certain functionality in the Verra Registry that supports the business activities
+identified in Clause 1.9 at any time.
+
+Term
+These Terms of Use commence on the date on which the User indicates on the Verra
+Registry website that the User agrees with and accepts the Terms of Use
+(Commencement Date), and these Terms of Use shall continue in effect until
+terminated in accordance with Clause 14 (End Date).
+4
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+
+Services
+Verra, through the Verra Registry, provides an electronic platform to list Project
+Activities that follow the applicable protocols and standards for the relevant Verra
+Program and record the issuance, transfer, retirement and cancellation of
+Instruments within the Verra Registry.
+The Verra Registry lists Project Activities and issues Instruments in accordance with
+the Program Rules and Requirements of each of the Verra Programs it administers.
+Accordingly, where applicable to the User, before a Project Activity can be listed or an
+Instrument issued, the User must provide Verra with appropriate documentation for
+its approval in accordance with the procedures set out by Verra.
+The User is responsible for providing and maintaining all communications lines,
+telephone/transmission services, and all equipment and technology, necessary for
+the User to access and use the Verra Registry, and all costs and expenses associated
+with its accessing and using the Verra Registry.
+The User shall take all appropriate steps and precautions to safeguard and protect
+the access, use, and security of the Verra Registry and the User's access information
+from unauthorized users.
+
+Opening an Account
+A User may request that Verra open a Verra Registry Account for that User in
+accordance with the procedures set out by Verra.
+Verra will only open a Verra Registry Account for a User if:
+(a) the User is not an individual (being a natural person);
+(b) the User has indicated its acceptance of these Terms of Use; and
+(c) the User has provided sufficient identification information including satisfying any
+relevant Know-Your-Client (KYC) or other background check requirements in
+accordance with the procedures set out by Verra including the Program Rules and
+Requirements.
+Verra may, in its absolute discretion, refuse to open a Verra Registry Account for a
+User.
+
+Program Sub-Accounts
+A User may request that Verra open a Program Sub-Account under its Verra Registry
+Account for all transactions related to a particular Verra Program or to manage the
+holding of Instruments within a particular Program. For the avoidance of doubt, a
+User shall have a separate Program Sub-Account for each Verra Program it
+participates in.
+5
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+
+Omnibus Account and Sub-Accounts
+A User may request that Verra open an Omnibus Account for a Verra Program with
+one or more Business Sub-Accounts for all transactions related to business activities
+performed on behalf of the User's customers.
+
+Sub-Registers
+A User may request that Verra open an Omnibus Account for a Verra Program with
+one or more Business Sub-Accounts for the purpose of allowing participants in an
+Approved Sub-Register to hold Instruments. Entitlements to such Instruments shall
+be determined by reference to this Approved Sub-Register.
+Verra may, in its sole and absolute discretion, refuse to approve a request under
+Clause 4.6.
+
+Listing a Project or Activity
+Once the User has opened a Verra Registry Account, the User may request that Verra
+list a Project Activity in accordance with the procedures set out by Verra including any
+Program Rules and Requirements.
+Verra will require any User who intends to list a Project Activity to provide all
+documentation and information as required by the relevant Verra Program Rules and
+Requirements.
+Verra will only list a Project or Activity if:
+(a) the User has registered with Verra or any relevant Scheme Regulator (as applicable)
+and submitted all necessary information to Verra or the relevant Scheme Regulator in
+accordance with the applicable Verra Program Rules and Requirements or Scheme
+Regulations;
+(b) the User has confirmed that it is not subject to any holding account restrictions in
+accordance with the applicable Scheme Regulations;
+(c) the User has complied with all relevant laws in relation to the Project Activity; and
+(d) the User has complied with any other requirements specified in the relevant Program
+Rules and Requirements or by the relevant Scheme Regulator or by Verra from time to
+time.
+For the avoidance of doubt, a Project or Activity may be listed under more than one
+Program, provided that it meets the requirements for listing of each of the applicable
+Verra Program Rules and Requirements or Scheme Regulations.
+Verra may, in its absolute discretion, refuse to list any Project or Activity in the Verra
+Registry.
+
+6
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+
+Issuance of Registry Instruments
+A User may request that Verra issue Instruments to its Verra Registry Account in
+accordance with the relevant Verra Program Rules and Requirements.
+Verra will require any User who intends to issue Instruments in the Verra Registry to
+provide all documentation, attestations and information as required by the relevant
+Verra Program Rules and Requirements.
+Verra will only issue Instruments if:
+(a) the User has submitted complete and signed original or certified electronic versions of
+all attestations and documentation required under the relevant Verra Program Rules
+and Requirements or by the relevant Scheme Regulator and these Terms of Use;
+(b) Verra is satisfied (based solely on the information provided by the User and third
+parties) that the Project Activity for which Instruments are to be issued meets the
+relevant Verra Program Rules and Requirements;
+(c) the User complies with all relevant laws;
+(d) the User has established a Program Sub-Account for the relevant Program; and
+(e) the User has complied with any other requirements specified in the relevant Verra
+Program Rules and Requirements or by the relevant Scheme Regulator or by Verra
+from time to time.
+The User acknowledges and understands that Verra's issuance of Instruments is no
+guarantee of any relevant Scheme Regulator's issuance of corresponding Scheme
+Instruments, and that a Scheme Regulator may determine, pursuant to the relevant
+Program Rules and Requirements, that fewer or no Scheme Instruments will be
+issued relative to the quantity of Instruments issued by Verra. In such instances,
+Verra maintains the right to cancel the quantity of Instruments that it issued in
+excess of the number of Scheme Instruments issued by the relevant Scheme
+Regulator or take other action that it deems appropriate, considering the
+circumstances and facts available to Verra.
+The User acknowledges and agrees that in the event that Verra or a relevant Scheme
+Regulator determines that GHG reductions or removals for a Project Activity were
+incorrectly quantified or reported, such that the number of Instruments issued to the
+User was in excess of the correct number according to the requirements of the
+applicable Verra Program Rules and Requirements, it is the User's responsibility to
+compensate for the over- issuance of Instruments, irrespective of whether the
+Instruments are still held by the User.
+The obligation to compensate for any over-issuance of Instruments survives the End
+Date, and exists until the later of:
+(a) the date which is six years after the date of issuance of such Instrument; or
+7
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(b) 12 months after the date upon which any second verification report with respect to any
+such Instrument is accepted on the Verra Registry in accordance with the relevant
+Verra Program Rules and Requirements.
+Verra may, in its absolute discretion, refuse to issue Instruments to the User's Verra
+Registry Account.
+
+Recording the Transfer of Instruments within the Verra Registry
+Upon receiving notification from the User or a Financial Market Settlement System
+that there has been an erroneous or fraudulent dealing related to Instruments in the
+Verra Registry, Verra may at its total discretion reverse the transaction or movement
+of Instruments or remove any Instruments being held in a User's Verra Registry
+Account or Program Sub- Account in accordance with any instructions received from
+the User or the relevant Financial Market Settlement System.
+Upon receiving any written instruction from a Scheme Regulator in relation to any
+dealing with Instruments in the Verra Registry, Verra may at its total discretion
+reverse any transaction or movement of Instruments or remove any Instruments
+being held in a User's Verra Registry Account in accordance with any written
+instructions received from the Scheme Regulator.
+Verra shall have no liability whatsoever for exercising its discretion under this Clause
+7 if the written notification provided by a User, Financial Market Settlement System
+or Scheme Regulator is subsequently determined to have been given in error or
+fraudulently.
+
+Cancellation and Retirement of Instruments
+The User may request that Verra cancel or retire Instruments in accordance with the
+relevant Verra Program Rules and Requirements and the procedures set out by
+Verra.
+The User acknowledges and agrees that, if the User wishes Verra to cancel or retire
+Instruments, upon such cancellation or retirement:
+(a) all legal and beneficial title and interests in such Instruments will be extinguished; and
+(b) neither Verra, the User, nor any other person with Legal or Beneficial Ownership Rights
+will have any further rights to take the benefit of such Instruments nor the underlying
+Environmental Benefits corresponding to such Instruments.
+For the avoidance of doubt, the extinguishment of legal and beneficial title and
+interests in the Instrument does not prevent the User (or any other person with Legal
+or Beneficial Ownership Rights on whose behalf the Instrument is cancelled or
+retired) from making offsetting claims corresponding to the Instrument cancelled or
+retired.
+8
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+Subject to Clauses 11.4(n) and 11.4(o), any instruction by the User to Verra to cancel
+or retire Instruments in accordance with this Clause 8 is irrevocable, and the User
+acknowledges that any such instruction will not be reversed.
+Verra acknowledges and agrees that, once the User has complied with this Clause 8
+and Verra has cancelled or retired the Instruments, Verra will not take any action to
+exercise or purport to exercise any right or interest, or deal with or otherwise use, the
+cancelled or retired Instruments or the underlying Environmental Benefits
+corresponding to such Instruments and considers that no person has any further
+rights to take the benefit of the cancelled or retired Instruments or the underlying
+Environmental Benefits corresponding to such Instruments.
+The User acknowledges and agrees that any Buffer Credits held in a pooled buffer
+account on the Verra Registry may be cancelled or retired by Verra upon notification
+of a reversal event in accordance with the relevant Verra Program Rules and
+Requirements.
+
+Legal Title to Instruments
+Notwithstanding anything in Clause 6, the User acknowledges and agrees that Verra
+does not in any way guarantee legal title to the Instruments and the User relies on
+any content obtained through the Verra Registry at its own risk.
+For the avoidance of doubt, Verra is under no obligation to verify or otherwise enquire
+into the validity of, or legal title to, the Instruments or any Related Instruments and
+does not recognize any interest in an Instrument or any Related Instruments other
+than the interest of the entity named as the holder of the Instrument in the Registry
+or any Approved Sub-Register.
+
+Fees and Charges
+Fees payable for use of the Verra Registry will be published by Verra from time to
+time.
+The User shall provide User's billing information prior to opening a Verra Registry
+Account with the Verra Registry. Invoices will be sent to User by email. All payments
+made to Verra should be made by wire transfer of immediately available funds in
+United States dollars to the Verra Bank Account. Users based in the United States of
+America only may (as an alternative to wire transfer) make payments using the
+Automated Clearing House network administered by the National Automated Clearing
+House Association to transfer immediately available funds in United States dollars to
+the Verra Bank Account. For the avoidance of doubt, all costs associated with the
+User's payment of fees shall be borne by the User.
+
+Late Payment
+If User fails to pay when due any fees, costs or other amounts which User is obligated
+to pay under these Terms of Use, such amounts will be deemed delinquent and will
+9
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+accrue interest at the Interest Rate, such interest to be calculated from and including
+the Due Date to, but excluding, the date on which the delinquent amount is paid in
+full.
+Acceptance of late payment of any such amounts or of any interest accrued thereon
+shall not constitute a waiver by Verra of the User's default with respect to such late
+payment, nor prevent Verra from exercising any other rights or remedies available to
+it under these Terms of Use or any applicable law, for any loss or damage suffered in
+excess of the repaid amount.
+If delinquent fees are not paid by the User within thirty (30) days of the Due Date,
+Verra maintains the right to freeze the User's access to its Verra Registry Account and
+Program Sub-Accounts until such time as User pays all outstanding fees, inclusive of
+interest.
+Verra shall bear no liability to the User or any third party in connection with Verra's
+exercise of its rights and remedies hereunder.
+
+Changes in Fees and Costs
+Verra may, upon thirty (30) days' notice to User and in its sole discretion, increase or
+decrease any or all of the fees and costs payable hereunder at any time. In no event
+shall any portion of such fees and costs be prorated or refunded to User after the
+End Date or termination or suspension of User's access to the Verra Registry.
+Any use of the Verra Registry by the User after the effective date set forth in the
+notice shall be deemed to constitute acceptance of such changes to the fees and
+costs payable hereunder.
+
+Taxes and Other Charges
+User shall be responsible for all taxes and charges imposed by a Government
+Authority related to the use of the Verra Registry and all related hardware, software,
+and services, and any other costs the User incurs in connection with the purchase,
+sale, posting, or transfer of Instruments or any other use of the Verra Registry.
+For the purposes of these Terms of Use, "taxes" includes, but is not limited to, any or
+all ad valorem, property, occupation, severance, first use, conservation, gross
+receipts, privilege, sales, use, consumption, excise, lease, and transaction taxes, and
+any other taxes and governmental charges, fees, and assessments, or increases
+therein, other than taxes based on Verra's net income or net worth.
+
+Representations, Warranties and Covenants
+On the Commencement Date and throughout the term of these Terms of Use, the
+User represents and warrants to Verra that:
+(a) it is duly organized, validly existing, and in good standing under the laws of the
+jurisdiction of its formation;
+10
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(b) it has all corporate and other authority and all regulatory and other consents, approvals
+and authorizations necessary for it to legally:
+enter into and perform its obligations under these Terms of Use and
+the associated procedures set out by Verra including any Program
+Rules and Requirements;
+engage in all of its activity (including the creation, receipt and transfer
+of Instruments) on or relating to the Verra Registry; and
+undertake any business activities that it seeks permission from Verra
+to use the Verra Registry in connection with.
+(c) the person indicating the User's acceptance of these Terms of Use through a website
+maintained by Verra has the authority to enter into these Terms of Use on behalf of the
+User, and these Terms of Use are binding on the User and enforceable against the User
+in accordance with their terms;
+(d) it has examined and is familiar with the statements and other data and information
+submitted by it or on its behalf to Verra, and, to the best of its knowledge and belief,
+such statements and information are true, accurate, and complete;
+(e) it will not hold Instruments for or on behalf of individuals (being natural persons) for
+investment purposes in any of its Verra Registry Accounts;
+(f) it is not acting and will not act in any way as, or similar to, a broker for or engage in any
+transactions of Instruments for or on behalf of individuals (being natural persons) for
+investment purposes;
+(g) its business activities in relation to the use of the Verra Registry will only be those
+notified by the User to Verra during the account opening process or subsequently in
+accordance with these Terms of Use;
+(h) where applicable to the User, any Instruments issued by the Verra Registry have been
+created and verified in accordance with the relevant Verra Program Rules and
+Requirements;
+(i) subject to Clause (j), all legal title to and all Legal or Beneficial Ownership Rights in
+each Instrument held, retired or cancelled in any Verra Registry Account and Program
+Sub-Account, or Omnibus Account and Business Sub-Account, held by the User are held
+by the User;
+(j) where a User holds Instruments as Agent for a third party with Legal or Beneficial
+Ownership Rights in such Instruments or as the operator of an Approved Sub-Registry,
+it holds all necessary licenses and authorizations to do so;
+(k) all rights, title and interest in all data and other information provided to Verra or input
+into the Verra Registry by the User are held by, or licensed to, the User, or are otherwise
+derived from sources which are publicly available, and all such data and other
+information are true and correct in all material respects;
+11
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(l) any other representation, warranty, attestation or certification made to Verra by or on
+behalf of the User, whether prior to, on or following the Commencement Date is true
+and correct in all respects it has examined and is familiar with the statements and
+other data and information submitted by it or on its behalf to Verra, and, to the best of
+its knowledge and belief, such statements and information are true, accurate, and
+complete;
+(m)it is not acting as an Agent of, it is not performing transactions on behalf of a customer
+who is, and it does not have as a participant in an Approved Sub-Register any person or
+entity who is, a target of US sanctions and/or a person or entity on the US Department
+of the Treasury’s Office of Foreign Assets Control list of Specially Designated Persons
+and Blocked Nationals;
+(n) to the best of its knowledge and belief, it complies with the laws and regulations
+applicable to it in the jurisdictions in which it operates; and
+(o) any payments made by it to Verra will not involve the proceeds of crime.
+
+Covenants of User
+On the Commencement Date and throughout the term of these Terms of Use, the
+User covenants to Verra that:
+(a) it will maintain its user ID and password in strict confidence, will allow only its
+employees and other representatives access to its Verra Registry Account and Program
+Sub-Accounts or any Omnibus Account and Business Sub-Accounts and will promptly
+notify Verra of any suspected unauthorized use of the Verra Registry or other breach of
+security; and
+(b) it will comply at all times with the relevant Verra Program Rules and Requirements as
+applicable, these Terms of Use, the procedures set out by Verra, and all laws applicable
+to its use of the relevant Verra Program.it will comply at all times with the relevant
+Verra Program Rules and Requirements as applicable, these Terms of Use, the
+procedures set out by Verra including any Program User Guidelines, and all laws
+applicable to its use of the relevant Verra Program.
+
+Representations and Warranties of Verra
+On the Commencement Date and throughout the term of these Terms of Use, Verra
+represents and warrants to User that:
+(a) to Verra's knowledge:
+the Verra Registry, the procedures set out by Verra including any
+Program Rules and Requirements and these Terms of Use comply in
+all material respects with any applicable laws, regulations and orders
+to which they may be subject; and
+Verra possesses any applicable licenses, authorizations, permits,
+12
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+consents and approvals of any Government Authority that may be
+required to be possessed by Verra in connection with the operation of
+the Verra Programs and the Verra Registry; and
+use of the Verra Registry by User in accordance with the provisions of
+these Terms of Use does not and will not infringe the intellectual
+property rights of any third party in the United States; and
+(b) it will act as a Reasonable and Prudent Operator in performing its obligations under
+these Terms of Use.
+
+User Acknowledgements
+User acknowledges and agrees that Verra is merely providing a service and,
+accordingly, acknowledges and agrees that:
+(a) neither Verra nor the Verra Registry Software Provider has any special or fiduciary
+relationship to the User or any other user of the Verra Registry;
+(b) neither the Verra Registry nor the Verra Registry Software Provider is the User's agent
+or advisor;
+(c) these Terms of Use create no relationship of partnership, joint venture, employment,
+franchise, or agency between Verra or the Verra Registry Software Provider and the
+User;
+(d) all Instrument transactions shall be performed or settled by it and any third party in
+accordance with such separate agreements as may exist between the User and the
+relevant third party, save that any Instrument transactions executed within the
+Omnibus Account in respect of which there is an Approved Sub-Register shall be
+performed or settled by participants in the Approved Sub-Register in accordance with
+such separate agreements as may exist between such participants in accordance with
+the terms of service of the Approved Sub-Register;
+(e) neither the Verra Registry nor the Verra Registry Software Provider assumes any
+responsibility for the performance or settlement of any transactions;
+(f) Verra is not in any way involved with and has no control over the disbursement of
+Scheme Instruments under any Scheme Regulations;
+(g) it shall perform or settle any separate Scheme Instrument transactions in accordance
+with such separate agreements as may exist between User and any third party(ies),
+including Scheme Regulators;
+(h) Verra does not warrant that the Verra Registry software is free of bugs or errors;
+(i) Verra does not warrant that the information provided by Users and uploaded on the
+Verra Registry is true and correct at any point in time;
+(j) neither Verra or the Verra Registry Software Provider acts as a buyer or seller, or holds
+title to any Instrument or product listed on the Verra Registry;
+13
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(k) once project information has been uploaded or posted to the Verra Registry; such
+project information cannot and shall not be deleted, removed, expunged or altered,
+except in accordance with Verra's normal operating procedures or as required by a
+relevant Scheme Regulator. Any subsequent changes or additions to information
+previously posted shall be posted as an update/amendment, but shall not replace the
+original posting;
+(l) Verra and the Verra Registry do not and will not provide any matching services whereby
+Users will be matched with any potential buyer or seller of Instruments;
+(m) in the event that a User does enter into an Instrument transaction with any third party
+using the Verra Registry or any participants in an Approved Sub-Register enter into an
+Instrument transaction with each other, in each case, Verra does not guarantee and
+shall not be responsible for any obligation arising out of such transaction or
+arrangement or provide any assurance or guaranty that any such transaction or
+arrangement ultimately will be consummated;
+(n) Verra has the authority and power to reverse any transaction or movement of
+Instruments upon instruction from a relevant Scheme Regulator, Financial Market
+Settlement System or any other Government Authority without the authorization of the
+User. If a transaction or movement of Instruments is reversed in accordance with this
+Clause 11.4(n), the User will have no claim against Verra for any remedy;
+(o) the User has the right and the obligation to instruct Verra to correct any incorrect or
+inaccurate information held in the Verra Registry and inform Verra in writing of any
+changes to that information; and
+(p) Verra may, in its sole discretion, with or without cause or prior notice to the User:
+temporarily or permanently cease to operate the Verra Registry;
+temporarily or permanently cease to make Instrument issuances or
+other services described hereunder available; or
+terminate or suspend the User's access to the Verra Registry in
+accordance with Clause 14 of these Terms of Use.
+
+Limitation of Liability and Indemnification
+Limitation of Liability
+The User assumes full responsibility and risk of loss resulting from its use of the
+Verra Registry and will have no claim whatsoever against Verra or its independent
+contractors (including, without limitation, the Verra Registry Software Provider), other
+than where liabilities are determined by final adjudication to have been caused by
+Verra's or its independent contractors' fraud, gross negligence or willful misconduct.
+Verra's sole liability relating in any way, whether directly or indirectly, to the Verra
+Registry or these Terms of Use (including without limitation the performance or non14
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+performance by Verra of its obligations), whether caused by the negligence of Verra
+or otherwise, and regardless of whether any claim for damages is based on contract,
+tort, strict liability or otherwise, is limited to an aggregate amount equal to the fees
+paid by the User to Verra during the one-year period immediately preceding the
+earliest date on which any such claim(s) are made by the User.
+In no event shall Verra or the Verra Registry Software Provider be liable for any:
+(a) consequential, incidental, special, exemplary, punitive or indirect damages;
+(b) economic or commercial loss; or
+(c) any loss of use, loss of data, loss of business, personal injuries, or property damages,
+sustained by the User or any third parties.
+Even if Verra has been advised by the User or any third-party of the possibility of
+such damages, the User hereby releases and discharges Verra and the Verra
+Registry Software Provider, any wholly owned subsidiaries of Verra and the Verra
+Registry Software Provider, any other corporate affiliates of Verra and the Verra
+Registry Software Provider, their successors and assigns, agents, directors, officers,
+employees, contractors, service providers and vendors from any and all liability with
+respect to any damage or injuries incurred by the User in relation to the Verra
+Registry.
+
+No Counterparty Liability
+Verra shall not be liable:
+(a) for the acceptability of or for any action or omission of any counterparty to or other
+third party involved in any transaction or arrangement that relates to Instruments or
+that is entered into or consummated with the use of the Verra Registry (including
+without limitation any Scheme Regulator, buyer, exchange provider and any verification
+or certification provider); or
+(b) for the enforceability of or for any loss, expense or other liability arising from any such
+transaction or arrangement.
+
+Indemnification
+To the fullest extent permitted by law, the User agrees to indemnify, defend, and hold
+harmless Verra and its independent contractors (including, without limitation, the
+Verra Registry Software Provider) and their respective officers, directors, owners,
+employees, agents, subsidiaries, affiliates, successors and assigns (collectively, the
+Indemnified Party) against and from any losses, liabilities, damages, judgments,
+awards, fines, penalties, actions, claims, costs, and expenses, including, without
+limitation, any amounts paid in settlement or compromise and any fees and costs of
+counsel and experts, (collectively, Losses) incurred, directly or indirectly, in
+connection with or by reason of, or in any way relating to, arising out of or attributable
+to:
+15
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(a) the User's use of the Verra Registry or Verra's website and/or any violation of any law,
+rule, or regulation arising from such use;
+(b) any breach of any representation or warranty set forth in, and any failure to perform
+any covenant, obligation or agreement under, these Terms of Use by User, or any
+violation by User of these Terms of Use or the procedures set out by Verra;
+(c) any claim, action or proceeding asserted or brought by a third party arising out of any
+actual or alleged act or omission of the User;
+(d) any failure of any Instrument posted or transferred by the User on the Verra Registry to
+conform with Verra's or a relevant Scheme Regulator's requirements;
+(e) any information supplied by or through User, any transaction or arrangement entered
+into by User with any third party, or any misuse or improper disclosure of any
+information by User;
+(f) any dispute between User and any third party with respect to any Instruments or
+Related Instruments (including, without limitation, any such dispute arising from or
+relating to any transaction between User and a third party with respect to the purchase,
+sale, or exchange of Instruments or Related Instruments, or to the aggregation,
+verification or certification of emissions data or any other data underpinning claimed
+Environmental Benefits);
+(g) any loss suffered by or other harm to any person or property (including, without
+limitation, any personal injuries or death of any third person) in any way relating to or
+caused in whole or in part by the posting, purchase, sale or exchange of Instruments or
+Related Instruments by the User or any other activity of User conducted using the Verra
+Registry;
+(h) any action (including, without limitation, any message, request to transfer, buy, offer to
+sell, bid to buy, and request for new suppliers) taken by any third person through the
+User's Verra Registry Account or Program Sub-Accounts, or the User's Omnibus Account
+or Business Sub-Accounts, or using the User's password on the Verra Registry, whether
+or not such third person gains access to such Verra Registry Account or Program SubAccount, or Omnibus Account or Business Sub-Accounts, or password as the result of
+any negligence or lack of vigilance by the User; and
+(i) the enforcement of the release, indemnity and other obligations referred to in this
+Clause 12.5,
+in any case, except to the extent that such Losses result from the Indemnified Party's
+fraudulent conduct, gross negligence or willful misconduct.
+For the avoidance of doubt, the Losses referred to in Clause 12.5 include, and are
+not limited to, any Losses arising out of or related to:
+(a) any inaccuracy, error, or delay in or omission of any data, information, or service, or the
+transmission or delivery of any data, information, or service;
+16
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(b) any interruption of any such data, information, or service (whether or not caused by
+such Indemnified Party); or
+(c) any financial, business, commercial or other judgment, decision, act or omission based
+upon or related to the information or the Registry.
+
+Limited Warranty; Disclaimer of Warranty
+The data contained in the Verra Registry has been gathered by Verra from sources
+believed by Verra to be reliable. However, neither Verra nor the Verra Registry
+Software Provider warrants that the information in the Verra Registry is correct,
+complete, current, or accurate, or that the software programs used in the Verra
+Registry will be error or bug-free, secure or free from service disruption.
+The User acknowledges, understands and accepts that the Verra Registry is provided
+on an "As Is" basis at the User's sole Risk. Neither Verra nor the Registry Software
+Provider makes any representations, or warranties, express or implied, with respect
+to these Terms of Use, the procedures set out by Verra or compliance with the
+relevant Verra Program Rules and Requirements, or the adequacy or performance of
+the Verra Registry.
+Verra and the Verra Registry Software Provider hereby disclaim any such warranties,
+including but not limited to warranties of merchantability, non-infringement or fitness
+for a particular purpose, and any implied warranties arising from any course of
+dealing, usage, or trade practice.
+The User acknowledges that service or maintenance disruptions may occur from time
+to time. Verra and the Verra Registry Software Provider further disclaim liability for:
+(a) errors, omissions or other inaccuracies in any party of the Verra Registry, or the
+reports, Instruments or other information compiled or produced by or from or input into
+the Verra Registry;
+(b) any delays, omissions or interruptions therein, and
+(c) for the acts or omissions of any broker or Agent authorized within the Verra Registry by
+the User to utilize the Verra Registry services on behalf of the User.
+Verra and the Verra Registry Software Provider are not responsible for the acts or
+omissions of parties who aggregate, input, verify or certify data for the Verra Registry
+or from whom data is obtained for inclusion in the Verra Registry, nor is Verra or the
+Verra Registry Software Provider responsible for any obligation of any User to provide
+or deliver a product or service or to pay any User for a product or service.
+Neither Verra nor the Verra Registry Software Provider assumes any responsibility for,
+and neither shall be liable for, any damages to, or viruses that may infect, the User's
+equipment or other property on its Verra Registry Account and Program Sub-Accounts
+or Omnibus Account and Business Sub-Accounts, or the User's access to and use of
+the Verra Registry.
+17
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+The User is solely responsible for the protection, security, and management of its
+computer network and of all usage thereof. Neither Verra nor the Verra Registry
+Software Provider will compensate the User for damages incurred due to violations of
+the security of the User's computer network, nor shall the User make deductions or
+set offs of any kind from or against fees due to Verra in respect of any such
+damages.
+
+Termination and Suspension
+Termination
+Verra may terminate these Terms of Use by giving not less than ten (10) Business
+Days' notice in writing to the User except in the event of a material breach of the
+Terms of Use in which case Verra may terminate these Terms of Use immediately.
+For the avoidance of doubt, the power to terminate these Terms of Use in this Clause
+14.1 can be exercised immediately.
+The notice referred to in Clause 14.1 shall include reasons for Verra's exercise of its
+right to terminate these Terms of Use and, subject to Clause 14.5(a), the date upon
+which the Terms of Use will terminate.
+The User may terminate these Terms of Use and its use of the Verra Registry by
+providing thirty (30) Business Days written notice to Verra.
+If these Terms of Use are terminated, the following provisions shall survive
+termination: 7 (Recording the Transfer of Instruments within the Verra Registry), 8
+(Cancellation and Retirement of Instruments), 10 (Fees and Charges), 12 (Limitation
+of Liability and Indemnification), 16 (Confidentiality), 17 (Intellectual Property), and
+19 (Dispute Resolution).
+Upon notification from Verra that these Terms of Use are to be terminated:
+(a) Except in the case of a material breach of these Terms of Use by User, the User may:
+request a period of no more than ten (10) Business Days from the
+date upon which the notice of termination referred to in Clause 14.1
+is received to remedy any circumstance that has given rise to a right
+to terminate, such cure period to be granted at the sole discretion of
+Verra; and/or
+transfer, cancel or retire Instruments held in the User's Verra Registry
+Account and any Program Sub-Account, or the User's Omnibus
+Account and Business Sub-Accounts, to another User's Registry
+Account as instructed by User. If no such transfer is effected before
+termination, the provisions of Clause 14.5(c) shall apply.
+(b) In the case of a material breach of these Terms of Use by User, the provisions of
+Clause 14.5(c) shall apply;
+18
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(c) Verra shall transfer any Instruments remaining in the User's Verra Registry Account and
+any Program Sub-Account, or the User's Omnibus Account and Business SubAccounts, to a Verra Administration Account and Verra shall record the Instruments as
+belonging to the User or where applicable the relevant third party identified in any
+Approved Sub-Register as having Legal or Beneficial Ownership Rights or where there
+is no Approved Sub-Register such other third parties as Verra is reasonably satisfied
+based on documentary evidence as holding Legal or Beneficial Ownership Rights. Verra
+shall not transfer, cancel or retire such Instruments without the written consent of User
+or where applicable the relevant third party identified in any Approved Sub-Register as
+having Legal or Beneficial Ownership Rights or where there is no Approved SubRegister such other third parties as Verra is reasonably satisfied based on
+documentary evidence as holding Legal or Beneficial Ownership Rights, except in such
+circumstances where Verra is exercising its rights with respect to Disputed Instruments
+under Clause 14.11(c). Within two (2) Business Days after receipt of the User’s
+request, Verra will provide to the User a report of Instruments belonging to the User
+and held on the Verra Administration Account. The User shall make no more than one
+such request per week.
+
+Suspension
+Verra may suspend the User's access to the Verra Registry and the User’ Verra
+Registry Account and/or Program Sub-Accounts, or the User's Omnibus Account
+and/or Business Sub-Accounts, at any time with or without cause and without prior
+notice to the User. Without limiting any other remedies or limiting the foregoing, Verra
+may suspend the User's access to the Verra Registry if:
+(a) Verra reasonably suspects that the User has engaged in fraudulent, unethical or illegal
+activity in connection with the Verra Registry, Verra or its website;
+(b) it has received instructions to do so from the relevant Scheme Regulator;
+(c) the User has failed to pay any fees, costs or other amounts required to be paid under
+these Terms of Use within five (5) Business Days of the applicable Due Date;
+(d) the User has breached any representation, warranty, covenant or agreement contained
+herein, or otherwise failed to abide by these Terms of Use, the procedures set out by
+Verra including the Verra Program Rules and Requirements or any relevant Scheme
+Regulations;
+(e) accreditation or approval for any Instruments listed by or on behalf of the User is
+withdrawn or threatened to be withdrawn for any reason other than such units having
+been issued in error;
+(f) any Instruments listed by or on behalf of the User are the subject of, or become the
+subject of, a Dispute, other than to an issue of erroneous issuance; or
+(g) if the User is acting as an Agent, any authorization to act in that capacity has been
+revoked by the Principal;
+19
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(h) if the User is carrying out a business activity in connection with the Verra Registry listed
+in Clause 1.5 or 1.8 and for which licenses or approvals are required, such licenses or
+approvals are suspended or revoked by the applicable regulator;
+(i) if the User is a broker or financial advisor that is not registered or in good standing with
+the regulatory body responsible for regulating brokers and advisors in a jurisdiction in
+which the User is operating; or
+(j) the User is otherwise acting in a way that may bring the Verra Registry or any of the
+Verra Programs into disrepute.
+Verra shall provide the User with written notice via email of the circumstances giving
+rise to the suspension under this section as soon as possible but no later than within
+seven (7) Business Days following such suspension.
+While a User's access to the Verra Registry and/or Verra Registry Account and any
+Program Sub-Accounts, or the User's Omnibus Account and any Business SubAccounts, is temporarily suspended, the User will have no right to deal with any listed
+Instruments in the Verra Registry and any instruction by the User to Verra to list,
+record the transfer of, retire or cancel Instruments in the Verra Registry will be
+declined.
+When Verra forms a reasonable belief in accordance with Clause 14.6(a). Verra may
+exercise one or more of the following rights:
+(a) a notation may be made in the Verra Registry and / or the Verra website indicating the
+temporary suspension and indicating the Disputed Instruments; and
+(b) where the dispute concerns Instruments transferred, or purportedly transferred, by the
+User to another Verra Registry Account in accordance with Clause 7, Verra may require
+the User to supply replacement Instruments of a quality and quantity specified by
+Verra.
+Upon notification by Verra of temporary suspension, the User will have ten (10)
+Business Days to:
+(a) show cause in writing as to why the User should not be permanently suspended from
+the Verra Registry and why the serial numbers of the Disputed Instruments should not
+be cancelled and
+(b) where requested by Verra in accordance with Clause 14.9(b), supply to Verra,
+replacement Instruments of a quality and quantity specified by Verra.
+If within the ten (10) Business Day period, the User fails, to the satisfaction of Verra,
+to show cause and/or provide replacement Instruments, Verra may exercise one or
+more of the following rights.
+(a) in case of a suspension pursuant to Clause 14.6(a) or 14.6(b), permanently suspend
+the User from the Verra Registry;
+
+20
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(b) in case of a suspension pursuant to Clause 14.6(a) or 14.6(b), close the User's Verra
+Registry Account(s) and any Program Sub-Accounts, or the User's Omnibus Account and
+any Business Sub-Accounts (in which case the provisions of Clause 15 shall apply);
+(c) in case of a suspension pursuant to Clause 14.6(a) or 14.6(b), record the serial
+numbers of the Disputed Instruments into the Verra Cancellation Account; and / or
+(d) terminate these Terms of Use under Clause 14.1.
+For the avoidance of doubt, in the event that a listing or a transaction on the Verra
+Registry is found to be fraudulent or illegal, Verra reserves the right to refer the
+matter to the appropriate Government Authorities.
+
+Closing an Account
+The User may close a Verra Registry Account, Program Sub-Account, Omnibus
+Account, or Business Sub-Account, at any time by providing written notice to Verra in
+accordance with the procedures set out by Verra including any user guidelines.
+In the event of the User providing written notice to Verra in accordance with Clause
+15.1, the User will retain access to its other accounts on the Verra Registry (if any)
+and these Terms of Use will continue to apply until terminated under Clause 14.
+Upon receiving notification under Clause 15.1, or carrying out its powers under
+Clause 14, Verra will record the serial number of the Instruments listed in the
+relevant Verra Registry Account, Program Sub-Account, Omnibus Account, or
+Business Sub-Account, of that User (if any) in Verra 's Cancellation Account.
+
+Confidentiality
+Verra agrees to use and maintain Confidential Information provided by User in
+accordance with the procedures set out by Verra and the relevant Verra Program
+Rules and Requirements, except as may be otherwise required or permitted under
+Clause 16.4(a), or as requested by a relevant Scheme Regulator pursuant to its
+Scheme Regulations.
+The User acknowledges that Verra will relay Confidential Information to the Registry
+Software Provider for the purpose of maintaining the Verra Registry and consents to
+and authorizes data sharing between Verra and the Registry Software Provider.
+Verra and User shall each use commercially reasonable efforts to protect any
+Confidential Information of the other party from unauthorized disclosure or use,
+using at least the same level of care as it uses to protect its own Confidential
+Information.
+Verra and the User each agree not to use or disclose Confidential Information of the
+other party except to the extent that such use or disclosure is:
+
+21
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(a) reasonably necessary to perform under the procedures set out by Verra including the
+Program Rules and Requirements, or these Terms of Use (including, without limitation,
+in connection with the production of reports or information requested and required by a
+relevant Scheme Regulator); or
+(b) authorized in writing by the other party.
+Neither Verra nor the User shall be deemed to have breached these Terms of Use on
+account of the use or disclosure of any Confidential Information of the other party if:
+(a) such use or disclosure is reasonably necessary to comply with any applicable law,
+regulation, order or other legally enforceable requirement, or any request by any
+Government Authority having jurisdiction (including a relevant Scheme Regulator) over
+Verra; and
+(b) the party using or disclosing such Confidential Information provides to the other party, ,
+to the extent reasonably practicable and legally permissible, as soon as reasonably
+practicable and in advance of such use or disclosure, written notice of such use or
+disclosure so that the other party may seek a protective order or other appropriate
+remedy (at its own cost). The notice provision in this Clause (b) may only be waived
+where (i) a Government Authority expressly directs the Party not to provide such notice,
+(ii) such disclosure or use is part of a party’s usual ordinary course of business with its
+regulators or (iii) such notice would not be permitted by applicable law, regulation, or
+any other legally enforceable requirement.
+With respect to requests from a relevant Scheme Regulator for Confidential
+Information relating to a particular Project Activity in connection with the relevant
+Scheme Regulator's review or crediting of that Project Activity, either Party may
+disclose information to the relevant Scheme Regulator without providing written
+notice to the other Party.
+If a User cancels or retires one or more Instruments, notwithstanding anything to the
+contrary in these Terms of Use, the following information related to such cancellation
+or retirement shall be subject to public disclosure by or at the direction of Verra, in
+such manner (including, without limitation, by inclusion in one or more reports posted
+on the Verra 's website) and at such times as Verra may determine in its sole
+discretion:
+(a) the number of cancelled or retired Instruments;
+(b) the vintage and serial numbers of the cancelled or retired Instruments;
+(c) the date of such cancellation or retirement;
+(d) the name, type and identification number of the Project Activity and the location of the
+Project Activity site associated with the cancelled or retired Instruments; and
+(e) if applicable, and voluntarily disclosed by the User to Verra, a statement to the effect
+that the cancellation or retirement of the Instrument was on behalf of another person
+or organization and the reason for the cancellation or retirement of the Instrument
+(where voluntarily provided).
+22
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+If User obtains access to data in the Verra Registry that:
+(a) is not data provided or owned by User;
+(b) is not part of a publicly available Verra Registry report; and
+(c) the User is not otherwise authorized to use, then, regardless of whether such data is
+otherwise considered information subject to the provisions of this Clause 16, the User
+shall:
+immediately notify Verra that the User has obtained such access; and
+not disclose, disseminate, copy, or use any such information.
+Verra and the User will each be entitled to all remedies available at law or in equity to
+enforce, or seek relief in connection with, the obligations of the other party under this
+Clause 16.
+
+Intellectual Property
+The User hereby grants to Verra and the Verra Registry Software Provider, a
+perpetual, royalty-free license to:
+(a) use, reproduce, distribute, display and prepare derivative works from data provided by
+the User (User Data) and Confidential Information provided by the User; and
+(b) grant sublicenses to such User Data and Confidential Information to subcontractors
+and other third parties,
+in each case to the extent reasonably necessary to perform any obligations of Verra
+under these Terms of Use, the procedures set out by Verra including the relevant
+Verra Program Rules and Requirements, and to fulfil the purposes of the Verra
+Registry. The User acknowledges that Verra may publish, or authorize the publication
+of, data other than Confidential Information from the Verra Registry, including the
+User Data.
+The rights and obligations of these Terms of Use shall run to the named parties and
+their successors in interest and permitted assigns. User shall ensure that any of its
+owners, trustees, members, officers, directors, employees and Agents to whom it has
+provided access to the Verra Registry agree to be bound by these Terms of Use.
+The User acknowledges and agrees that the rights and licenses provided to User
+under these Terms of Use and the procedures set out by Verra including any
+supplementary agreements or user guidelines are solely for the benefit of the User
+and are to be exercised only in connection with the User's use of the Verra Registry.
+The User may not transfer, assign or sublicense its rights, licenses or Verra Registry
+Account(s) and Program Sub-Accounts or Omnibus Account and Business SubAccounts, or any portion thereof, to any third party without the prior written consent
+of Verra, which consent Verra may withhold in its sole discretion.
+23
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+The User acknowledges that Verra is and shall remain the sole owner of all
+aggregated data embodied in the Verra Registry, and of the selection, arrangement
+and compilation of such aggregated data.
+Other than with Verra 's written permission, reproduction of part or all of the contents
+in any form of the Verra Registry is prohibited other than for individual use by the
+User only and may not be copied and shared with a third party. The permission to
+copy by an individual does not allow for incorporation of material or any part of it in
+any work or publication, whether in hard copy, electronic, or any other form.
+Unless otherwise noted, all materials in the Verra Registry are protected as the
+Intellectual Property Rights owned by Verra or by other parties that have licensed
+their material to Verra.
+
+Privacy and User Information
+Personal information about any individual will be maintained in accordance with the
+Privacy Policy.
+The User acknowledges that Verra may be required by law or in compliance with its
+Know-Your-Client (KYC) policy to conduct background checks on the User.
+The User agrees to use its best endeavors to assist Verra in carrying out any
+background check requirements.
+The User will review any communication issued by Verra in connection with the Verra
+Registry and will immediately notify Verra in writing if any information contained in
+the communication is inaccurate or incorrect.
+If the parties have executed a data transfer agreement, it is incorporated into and
+forms part of these Terms of Use.
+
+Dispute Resolution
+Governing Law
+These Terms of Use shall be governed by the laws of the District of Columbia without
+regard to its rules on conflicts of laws.
+
+Dispute Resolution
+In the event of any Dispute arising out of or relating to these Terms of Use, or the
+breach thereof, the parties first shall attempt to settle such claim or controversy by
+mediation administered by JAMS, which mediation shall take place in Washington,
+DC.
+Either party may commence mediation by providing to JAMS and the other party a
+written request for mediation, setting forth the subject of the dispute and the relief
+requested, including the amount sought in the dispute.
+24
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+The parties will cooperate with JAMS and one another in selecting a mediator from
+the JAMS panel of neutrals and in scheduling the mediation proceedings. The parties
+agree that they will participate in the mediation in good faith and that they will share
+equally its costs. At least fifteen (15) days prior to the commencement of the
+mediation, the party seeking to mediate (the Demanding Party) shall give the other
+party all documents available to the Demanding Party that support its position in the
+Dispute.
+All offers, promises, conduct and statements, whether oral or written, made in the
+course of the mediation by any of the parties, their agents, employees, experts and
+attorneys, and by the mediator or any JAMS employees, are confidential, privileged
+and inadmissible for any purpose, including impeachment, in any arbitration or other
+proceeding involving the parties, provided that evidence that is otherwise admissible
+or discoverable shall not be rendered inadmissible or non-discoverable as a result of
+its use in the mediation.
+Any Dispute that has not been resolved by mediation as provided herein within thirty
+(30) days after commencement of the mediation shall be finally resolved by
+arbitration administered by JAMS and all proceedings shall be held in Washington,
+DC. The arbitration will be conducted in accordance with the provisions of JAMS's
+Comprehensive Arbitration Rules and Procedures in effect at the time of filing of the
+demand for arbitration. The parties will cooperate with JAMS and with one another in
+selecting an arbitrator from JAMS panel of neutrals, and in scheduling the arbitration
+proceedings. The parties shall participate in the arbitration in good faith and shall
+share equally in its costs.
+The provisions of this Clause 19 may be enforced by any court of competent
+jurisdiction, and the party seeking enforcement shall be entitled to an award of all
+costs, fees, and expenses, including attorney fees, to be paid by the party against
+whom enforcement is ordered.
+The parties shall continue to perform their respective obligations under these Terms
+of Use during the pendency of dispute resolution proceedings, including mediation
+and arbitration.
+Each party waives, to the fullest extent permitted by applicable law, any right it may
+have to a trial by jury in respect of any Dispute.
+Except as otherwise provided herein, each party shall be responsible for the payment
+of all of its costs associated with the resolution of any Dispute, whether in mediation,
+arbitration or before a court of law, including but not limited to any filing fees,
+mediator or arbitrator fees, its reasonable attorneys’ fees, and other costs incurred in
+such proceeding, provided that if a Dispute is initiated in bad faith, as determined by
+the mediator, arbitrator or court, the party initiating the Dispute shall be responsible
+for all of the other party's defense costs.
+The parties agree that neither may bring a claim nor assert a cause of action against
+the other, in any forum or manner, more than one (1) year after the later of:
+25
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(a) the date on which the claim or cause of action accrued; or
+(b) the earliest date on which the aggrieved party could have reasonably discovered the
+wrong giving rise to the claim or cause of action.
+
+Force Majeure
+To the extent Verra is prevented by Force Majeure from fully performing any of its
+obligations under the Verra Program Rules and Requirements, the procedures set
+out by Verra or these Terms of Use, then Verra shall be excused from the
+performance of such obligations for as long as the Force Majeure event is continuing.
+Verra shall seek to remedy the Force Majeure using commercially reasonable efforts.
+The User shall not be required to perform or resume performance of its obligations
+under the relevant Verra Program Rules and Requirements, the procedures set out
+by Verra or these Terms of Use corresponding to the obligations of Verra excused by
+Force Majeure.
+
+General
+Assignment
+The User shall not assign these Terms of Use or any of its rights, benefits, duties, and
+obligations hereunder without the prior written consent of Verra, which consent Verra
+may withhold in its sole discretion. These Terms of Use shall be binding upon and
+inure to the benefit of the respective parties and their respective successors and
+permitted assigns.
+
+No Third Party Beneficiaries
+Except as set forth elsewhere in these Terms of Use, these Terms of Use confer no
+rights whatsoever upon any person other than the parties and shall not impose, or
+be interpreted as imposing, any standard of care, duty, or liability upon any person
+other than a party.
+
+Severability
+If any term or provision of these Terms of Use is held to be invalid or unenforceable in
+any respect, the validity and enforceability of the remaining terms and provisions of
+this Terms of Use shall not in any way be affected or impaired thereby.
+
+Audit
+Verra has the right, at its sole expense, upon reasonable notice and during normal
+working hours, to examine, audit, and obtain copies of the records of User to the
+extent reasonably necessary to verify:
+(a) the accuracy of any representation, warranty or attestation made by User to Verra; and
+26
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+(b) the User's performance during the prior twelve (12) month period of its obligations
+under the procedures set out by Verra including any user guidelines or, as applicable,
+the relevant Verra Program Rules and Requirements, and these Terms of Use.
+This right to examine, audit, and obtain copies shall not be available with respect to
+any information that is not directly relevant to the subject matter of the procedures
+set out by Verra including any user guidelines or, as applicable, the relevant Verra
+Program Rules and Requirements, or these Terms of Use.
+
+Notices
+All notices and other communications under these Terms of Use must be in writing
+and will be duly given hereunder:
+(a) upon delivery, if personally delivered, or if delivered by email or facsimile, or delivered
+by overnight courier with confirmation of delivery; or
+(b) on the fourth business day after the postmark date, if mailed by certified or registered
+mail with postage prepaid.
+Street and email addresses and facsimile numbers of each party are as indicated
+below or as subsequently modified by written notice to the other party.
+If to Verra:
+Verra
+Attn: Registry Administrator
+One Thomas Circle, NW, Suite 1050
+Washington, DC 20005
+Facsimile: 202-360-4257
+Email: registry@verra.org
+If to the User:
+To the address provided at the time of registration, as updated by the User from time to time.
+
+Electronic Documents
+To the extent permitted by law, for the purposes of these Terms of Use, Parties
+understand and agree that any document that is signed, executed, or submitted
+electronically will have the same force of law as if the same process had been
+conducted using physical documents.
+
+Injunctive Relief
+The User acknowledges that money damages would not adequately compensate
+Verra and the Verra Registry Software Provider in the event of a breach by the User of
+its obligations hereunder and that injunctive relief may be essential for Verra and the
+Verra Registry Software Provider to adequately protect themselves hereunder.
+Accordingly, the User agrees that, in addition to any other remedies available to Verra
+and the Verra Registry Software Provider or at law or in equity, including but not
+limited to any monetary damages, Verra and the Verra Registry Software Provider
+27
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+shall be entitled to seek injunctive relief in the event of any breach by User of any
+covenant, agreement, representation or warranty contained herein or in the
+procedures set out by Verra including any user guidelines.
+
+Rights Cumulative
+The rights, remedies and powers of the parties under these Terms of Use are
+cumulative and do not exclude any other rights, remedies or powers.
+
+28
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+
+Schedule 1
+Definitions
+Agent means any User of the Verra Registry who does so in the capacity as a broker, agent or
+representative of any kind on behalf of a Principal for the purposes of utilizing the Verra
+Registry services.
+Agreement means these Terms of Use.
+Approved Sub-Register means a sub-register of the Verra Registry that records the holdings of
+Instruments by participants in this sub-register, approved in accordance with the procedures
+set out by Verra.
+Buffer Credits means non-tradeable credits held in a pooled buffer account on the Verra
+Registry in accordance with the requirements of the Registration and Issuance Process, the
+Jurisdictional and Nested REDD+ Registration and Issuance Process, the AFOLU Non
+Permanence Risk Tool and any other applicable Program Rules and Requirements.
+Business Day means any day except a Saturday, Sunday, or a Federal Reserve Bank holiday. A
+Business Day shall open at 8:00 a.m. and close at 5:00 p.m. Eastern Prevailing Time.
+Business Sub-Account means a sub-account in a User's Omnibus Account for the purposes of
+holding Instruments on behalf of the User's corporate customers or otherwise to facilitate the
+User undertaking a business activity connected to the Verra Registry that has been approved
+by Verra.
+Cancellation Account means an account in the Verra Registry that lists the serial numbers of
+Disputed Instruments, Instruments transferred to third parties without accounts in the Verra
+Registry and Instruments held by Users that have exited the Verra Registry.
+Commencement Date means the date on which User indicated User's acceptance of these
+Terms of Use in accordance with Clause 2.
+Confidential Information shall mean:
+(a) all information:
+to which User, Verra or the Verra Registry Software Provider, or any
+third party (to the extent such third party owes a duty of confidence to
+User, Verra or the Verra Registry Software Provider) has rights; and
+which is marked to expressly indicate its confidential, restricted, or
+proprietary nature by the party having rights in the same, or which,
+under all of the circumstances, a reasonable business person should
+know to treat as confidential, restricted, and/or proprietary; and
+(b) all information that, at the applicable time, is deemed to be Confidential Information
+pursuant to Clause 16.
+(c) Notwithstanding the foregoing and any provision of Clause 16, Confidential Information
+does not include information:
+29
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+that is, as of the time of its disclosure, or thereafter becomes, part of
+the public domain through a source other than the receiving party;
+that subsequent to its disclosure, is received by the receiving party
+from a third party not subject to an obligation of confidentiality with
+respect to the information disclosed; or
+with respect to which the disclosing party provides to the receiving
+party in accordance with Clause 16 or through an electronic interface
+comprising part of the Verra Registry an express waiver of any
+confidentiality protection under these Terms of Use.
+Demanding Party has the meaning given to it in Clause 19.4.
+Dispute means any disagreement, claim, allegation, concerning the generation, creation,
+ownership, issuance, validity, legality or registration of any Instruments that may arise
+between the User and any third party including Verra.
+Disputed Instruments means Instruments subject to a suspension notice in accordance with
+Clause 14.8.
+Due Date means the date at which any Fees charged and invoiced under this Agreement must
+be paid, which is no later than 30 days after the date of the relevant invoice.
+End Date means the date these Terms of Use are terminated in accordance with Clause 14.
+Environmental Benefit(s) means all legal and equitable right, title, interest and benefit arising
+from or associated with (i) the protection, conservation or enhancement of the environment
+and/or biodiversity, or (ii) GHG Reductions, or (iii) the achievement of sustainable
+development outcomes; or (iv) any other legal and equitable right, title, interest or benefit
+relating to the environmental benefit as approved by Verra.
+Financial Market Settlement System means an exchange, clearing house, central counterparty
+or other settlement system (as determined by Verra) that acts on settlement instructions to
+settle transactions.
+Force Majeure means an event or circumstance which prevents Verra from performing its
+obligations under these Terms of Use, which event or circumstance was not anticipated as of
+the date these Terms of Use were agreed to, which is not within the reasonable control of, or
+the result of the negligence of, Verra, and which, by the exercise of reasonable commercial
+efforts, Verra is unable to overcome or avoid or cause to be avoided.
+Government Authority means:
+(a) a government, whether foreign, federal, state, territorial or local;
+(b) a department, office or minister of a government acting in that capacity; or
+(c) a commission, delegate, instrumentality, agency, board, or other governmental, semigovernmental, judicial, administrative, monetary or fiscal authority, whether statutory or
+not, and includes any relevant international agency.
+Instrument means a unit issued by, and held in the Verra Registry representing the right of an
+accountholder in whose account the unit is recorded to claim the achievement represented by
+30
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+the unit. Such achievement may include, but is not limited to, a GHG emission reduction or
+removal in an amount of one (1) metric tonne of CO2 equivalent that has been verified in
+accordance with the applicable Verra Program Rules.
+Intellectual Property Rights means all rights in any patent, copyright, database rights,
+registered design or other design right, utility model, trade mark (whether registered or not
+and including any rights in get up or trade dress), brand name, service mark, trade name,
+eligible layout right, chip topography right and any other rights of a proprietary nature in or to
+the results of intellectual activity in the industrial, commercial, scientific, literary or artistic
+fields, whether registrable or not and wherever existing in the world, including all renewals,
+extensions and revivals of, and all rights to apply for, any of the foregoing rights owned, used,
+or intended to be used, by a party whether or not registered, registrable or patentable.
+Interest Rate means, for any date, the per annum rate of interest equal to the prime lending
+rate published in The Wall Street Journal on such day (or if not published on such day, on the
+most recent preceding day on which published), plus two percent (2%).
+Legal or Beneficial Ownership Rights, with respect to any Instrument, means any contractual,
+proprietary, equitable, or other right to direct or control the sale or other disposition of, or the
+retirement of, such Instrument.
+Omnibus Account means an account held by the User in the Verra Registry for the purposes of
+holding Instruments on behalf of the User's corporate customers or otherwise to facilitate the
+User undertaking a business activity connected to the Verra Registry that has been approved
+by Verra.
+Principal means a third party who owns Instruments or wishes to utilize the Verra Registry
+services and who has appointed an Agent to act on its behalf for the purposes of using the
+Verra Registry services.
+Privacy Policy means:
+(a) for people in the European Economic Area or the United Kingdom. The Verra GDPR
+Privacy Policy available at: https://verra.org/wp-content/uploads/2021/01/VerraPrivacy-Policy-GDPR-FINAL-19-JAN-2021-1.pdf as amended from time to time; or
+(b) except when (a) applies, the Verra Privacy Policy available at https://verra.org/wpcontent/uploads/2018/03/Verra-Privacy-Policy.pdf as amended from time to time.
+Program Rules and Requirements means those rules and requirements adopted by Verra and
+set forth in the Program Rules and Requirements for the relevant Verra Program, Verra's
+formal guidance documents, and any additional direction provided by Verra as part of its
+implementation of the relevant Verra Program.
+Program Sub-Account means a sub-account in a User's Verra Registry Account for the holding
+of Instruments related to a specific Verra Program.
+Project Activity means the specific set of technologies, measures and/or outcomes, specified
+in a methodology applied to the project or program, that alter the conditions identified in the
+baseline scenario and which result in GHG emission reductions or removals and/or other
+Environmental Benefits.
+31
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+Reasonable and Prudent Operator means a person acting in good faith and exercising that
+degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be
+expected from a skilled and experienced person operating in, and engaged in the same type
+of undertaking under, the same or similar circumstances and conditions.
+Related Instrument means a connected, subset, linked, or other related product that is legally
+distinct from an Instrument and has an Instrument as its underlying.
+Scheme Instrument means a credit issued by a Scheme Regulator for a greenhouse gas
+(GHG) reduction or GHG removal enhancement of one metric tonne of carbon dioxide
+equivalent, pursuant to the Scheme Regulations, including but not limited to an ARB Offset
+Credit.
+Scheme Regulations means the regulations adopted by a Scheme Regulator for a national or
+sub- national emissions trading or offsets scheme, including any offset protocols adopted by
+the Scheme Regulator and which may be amended from time to time.
+Project Activity means the specific set of technologies, measures and/or outcomes, specified
+in a methodology applied to the project or program, that alter the conditions identified in the
+baseline scenario and which result in GHG emission reductions or removals and/or other
+Environmental Benefits.
+Reasonable and Prudent Operator means a person acting in good faith and exercising that
+degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be
+expected from a skilled and experienced person operating in, and engaged in the same type
+of undertaking under, the same or similar circumstances and conditions.
+Related Instrument means a connected, subset, linked, or other related product that is legally
+distinct from an Instrument and has an Instrument as its underlying.
+Verra Bank Account means the bank account nominated by Verra from time to time for the
+payment of fees by the User.
+Verra Program means the following programs and standards managed by Verra:
+(a) the Verified Carbon Standard (VCS) Program;
+(b) VCS Jurisdictional and Nested REDD+ (JNR) Framework;
+(c) Climate, Community & Biodiversity (CCB) Program;
+(d) Verra California Offset Project Registry (OPR);
+(e) Sustainable Development Verified Impact Standard (SD VISta)
+(f) LandScale;
+(g) Plastic Waste Reduction (PWR) Standard;
+and
+any other sustainable development and /or climate action program or standard administered by
+Verra from time to time.
+32
+
+VERRA REGISTRY - TERMS OF USE - SEPTEMBER 2021
+Verra Registry Account means an account held by the User in the Verra Registry in accordance
+with the procedures set out by Verra.
+Verra Registry Software Provider means APX.
+
+33
+
+

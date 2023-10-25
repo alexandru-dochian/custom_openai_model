@@ -1,0 +1,57 @@
+* {
+    font-size: 15px;
+}
+
+.global_wrapper {
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.info {
+    flex: 0.2;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.history {
+    flex: 0.6;
+    background-color: rgb(68, 58, 54);
+    z-index: 1;
+    overflow-y: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.historyItem {
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    padding: 5px;
+}
+
+.source {
+    padding: 10px;
+    flex: 0.2;
+}
+.message {
+    flex: 0.8;
+    background-color: white;
+}
+
+.robot {
+    background-color: brown;
+}
+
+.user {
+    background-color: chartreuse;
+}
+
+.query {
+    flex: 0.2;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
